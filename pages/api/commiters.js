@@ -1,5 +1,3 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
-
 export default async (req, res) => {
   const response = await fetch("https://raw.githubusercontent.com/MQU-MACS/first-commits/main/README.md");
   const data = await response.text();
