@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styles from "../styles/ComponentList.module.css";
 
-const CACHE_TIME = Number(process.env.CACHE_TIME);
+const CACHE_TIME = 5000;
 
 function CommitList() {
   const [names, setNames] = useState([]);

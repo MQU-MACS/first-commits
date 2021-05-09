@@ -1,6 +1,6 @@
 const API_URL =
   "https://api.github.com/repos/MQU-MACS/first-commits/contributors";
-const CACHE_TIME = Number(process.env.CACHE_TIME);
+const CACHE_TIME = 5000;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 let lastCall = 0;
