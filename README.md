@@ -8,4 +8,6 @@ env GITHUB_TOKEN=<GITHUB_PERSONAL_ACCESS_TOKEN> yarn dev
 ## Commiters
 Jordan
 Jesse
+myname
 Cory
+Krishna
