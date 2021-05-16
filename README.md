@@ -6,10 +6,15 @@
 env GITHUB_TOKEN=<GITHUB_PERSONAL_ACCESS_TOKEN> yarn dev
 
 ## Commiters
-Jordan
-Jesse
-myname
-Cory
-Krishna
-Kabir
-William
+- Jordan
+- Jesse
+- Jakob
+- myname
+- Cory
+- Krishna
+- Kabir
+- Joshua
+- rohit
+- Bailey
+- Dom
+- William
