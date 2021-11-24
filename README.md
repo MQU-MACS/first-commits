@@ -9,7 +9,6 @@ env GITHUB_TOKEN=<GITHUB_PERSONAL_ACCESS_TOKEN> yarn dev
 - Jordan
 - Jesse
 - Jakob
-- myname
 - Cory
 - Krishna
 - Kabir
@@ -17,4 +16,5 @@ env GITHUB_TOKEN=<GITHUB_PERSONAL_ACCESS_TOKEN> yarn dev
 - rohit
 - Bailey
 - Dom
+- Krithi
 - William
